@@ -1,0 +1,12 @@
+id	job	fun1	age	condition
+101	Student	10	24	A
+102	Full-time	20	24	B
+103	Part-time	30	34	A
+104	Full-time	30	29	B
+105	Student	35	22	A
+106	Full-time	40	19	B
+107	Student	10	18	A
+108	Part-time	20	21	B
+109	Full-time	5	21	A
+110	Part-time	90	33	B
+111	Student	75	30	A
